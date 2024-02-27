@@ -38,8 +38,8 @@ Our modeling approach will involve preprocessing data to normalize inputs and se
 | ------------- |:-------------:| -----:|
 | 3/1 - 3/8    | Data collection, stakeholder analysis, initial data exploration | Data set compiled, stakeholder needs identified |
 | 3/8 - 3/18   | Preprocessing, Feature engineering, preliminary model training | Feature set defined, initial models trained |
-| 3/19 - 3/26   | Model refinement and validation | Refined models with preliminary validation results |
-| 3/27 - 4/3    | Integration into trading strategy, final testing | Trading strategy developed, final model tested |
+| 3/19 - 4/3   | Model refinement and validation | Refined models with preliminary validation results |
+| 4/3 - 4/20    | Integration into trading strategy, final testing | Trading strategy developed, final model tested |
 
 ### Risks
 - **Data Quality and Availability:** Inadequate or inaccurate data could undermine model accuracy. We plan to mitigate this by sourcing from multiple reliable databases and performing rigorous data cleaning and validation, but it is still a key risk nonetheless.
