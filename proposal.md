@@ -44,4 +44,9 @@ Our modeling approach will involve preprocessing data to normalize inputs and se
 ### Risks
 - **Data Quality and Availability:** Inadequate or inaccurate data could undermine model accuracy. We plan to mitigate this by sourcing from multiple reliable databases and performing rigorous data cleaning and validation, but it is still a key risk nonetheless.
 - **Model Overfitting:** There's a risk of developing models too complex for practical use. We might be able to address this by using cross-validation and regularization techniques.
-- **Market Volatility:** Unpredictable market events can affect model performance. 
+- **Market Volatility:** Unpredictable market events can affect model performance.
+
+### References
+- **Portfolio Optimization using Machine Learning: A Survey** by Sun et al. (2018): Provides an overview of machine learning techniques applied to portfolio optimization and discusses their advantages and limitations.
+- **Deep Learning for Portfolio Optimization: An Overview** by Lu et al. (2019): Explores the use of deep learning methods, such as neural networks, for portfolio optimization and asset allocation.
+- **A Machine Learning Framework for Portfolio Optimization** by Tasche et al. (2019): Presents a machine learning-based approach for portfolio optimization using reinforcement learning and time series forecasting techniques.
