@@ -43,5 +43,5 @@ Our modeling approach will involve preprocessing data to normalize inputs and se
 
 ### Risks
 - **Data Quality and Availability:** Inadequate or inaccurate data could undermine model accuracy. We plan to mitigate this by sourcing from multiple reliable databases and performing rigorous data cleaning and validation, but it is still a key risk nonetheless.
-- **Model Overfitting:** There's a risk of developing models too complex for practical use. We'll address this by using cross-validation and regularization techniques.
+- **Model Overfitting:** There's a risk of developing models too complex for practical use. We might be able to address this by using cross-validation and regularization techniques.
 - **Market Volatility:** Unpredictable market events can affect model performance. 
