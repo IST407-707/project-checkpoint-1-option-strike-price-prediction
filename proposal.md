@@ -50,3 +50,9 @@ Our modeling approach will involve preprocessing data to normalize inputs and se
 - **Portfolio Optimization using Machine Learning: A Survey** by Sun et al. (2018): Provides an overview of machine learning techniques applied to portfolio optimization and discusses their advantages and limitations.
 - **Deep Learning for Portfolio Optimization: An Overview** by Lu et al. (2019): Explores the use of deep learning methods, such as neural networks, for portfolio optimization and asset allocation.
 - **A Machine Learning Framework for Portfolio Optimization** by Tasche et al. (2019): Presents a machine learning-based approach for portfolio optimization using reinforcement learning and time series forecasting techniques.
+
+
+### update on feedback 
+- **wether we can use european model aproach to us markets** many etfs on the us market trade like the european market so it would just be as simple as picking an etf like spy
+- the real challenge we have is getting a quality open source data base which is free.
+- we could go with made up data but at the end of the day it is made up data.
